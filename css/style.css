@@ -77,8 +77,8 @@ body{
 }
 
 .brack {
-    color:#000;
-    background: #ffeb3b;
+    color:#fff;
+    background: #03A9F4;
     border: 1px solid #ccc;
     padding: 20px;
     margin-top: -7em;
@@ -180,7 +180,7 @@ box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
 }
 
 
-.checkbox input[type="checkbox"]:checked ~ .check::before, .checkbox-default input[type="checkbox"]:checked ~ .check::before {
+.hcontact .checkbox input[type="checkbox"]:checked ~ .check::before, .checkbox-default input[type="checkbox"]:checked ~ .check::before {
     color: #fff;
 }
 
