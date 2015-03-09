@@ -2,7 +2,7 @@
 [![gratipay](https://img.shields.io/gratipay/FezVrasta.svg)](https://gratipay.com/FezVrasta)
 [![Bower version](https://badge.fury.io/bo/bootstrap-material-design.svg)](https://github.com/FezVrasta/bootstrap-material-design)
 
-[![banner](demo/imgs/banner.jpg)](#)
+[![banner](images/readme.png)](#)
 
 This Bootstrap theme is an easy way to use the new [Material Design guidelines by Google](http://www.google.com/design/spec/material-design/introduction.html) in your Bootstrap 3 based application.
 Just include the theme, after the Bootstrap CSS and include the JavaScript at the end of your document (just before the `</body>` tag), and everything will be converted to Material Design (Paper) style.
