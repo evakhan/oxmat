@@ -77,8 +77,6 @@ body{
 }
 
 .brack {
-    color:#fff;
-    background: #03A9F4;
     border: 1px solid #ccc;
     padding: 20px;
     margin-top: -7em;
@@ -202,14 +200,6 @@ ul.nav li.dropdown:hover ul.dropdown-menu{
     margin-top: -10px;
 }
 
-.panel-body h4 {
-    color:#ff0000;
-}
-
-.panel-body p {
-    color:#009587;
-}
-
 .tablesmall tbody tr td {
     vertical-align: middle;
     text-align: center;
@@ -218,4 +208,8 @@ ul.nav li.dropdown:hover ul.dropdown-menu{
 .table.table-bordered.tablesmall a {
     color: #ffffff;
     text-decoration: underline;
+}
+
+.alert{
+    color:#000;
 }
